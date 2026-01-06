@@ -1,5 +1,5 @@
 # Notion Tasks Dev
 
 Public documents:
-- [Privacy Policy](privacy-policy.md)
-- [Terms of Use](terms-of-use.md)
+- [Privacy Policy](privacy-policy.html)
+- [Terms of Use](terms-of-use.html)
